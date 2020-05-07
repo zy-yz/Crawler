@@ -64,7 +64,7 @@ def get_json(url, datas):
 def main():
     page = int(input('请输入你要抓取的页码总数：'))
 
-   # kd = input('请输入你要抓取的职位关键字：') # 可以自行调整关键字
+    # kd = input('请输入你要抓取的职位关键字：') # 可以自行调整关键字
 
     # city = input('请输入你要抓取的城市：')  # 可以自行调整关键字
 
