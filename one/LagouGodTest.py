@@ -110,7 +110,7 @@ def main():
 
         for i, row in enumerate(info_result):
 
-            # print(row)
+            print(row)
 
             for j, col in enumerate(row):
 
